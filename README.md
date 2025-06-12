@@ -24,10 +24,9 @@ I am always on the lookout for new challenges that push my creativity and techni
 </p>
 
 <p align="left">
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+  <a href="https://github.com/SunitMittal?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <img src="https://komarev.com/ghpvc/?username=SunitMittal&label=Profile%20views&color=0e75b6" alt="SunitMittal" height="28"/>
-<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+</p>
 
 # 🏆 Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
