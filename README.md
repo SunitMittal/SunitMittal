@@ -23,16 +23,19 @@ I am always on the lookout for new challenges that push my creativity and techni
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="25"></a>&ensp;
 </p>
 
+<p align="left">
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 <img src="https://komarev.com/ghpvc/?username=SunitMittal&label=Profile%20views&color=0e75b6" alt="SunitMittal" height="28"/>
+<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
 
+# 🏆 Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=SunitMittal&row=4&theme=onedark&no-frame=true"/>
 </a>
 
 # 📊 GitHub Stats:
-<a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api &count_private=true&include_all_commits=true&username=SunitMittal&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SunitMittal&theme=onedark&hide_border=true"/>
-    </a>
+<p>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=SunitMittal&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SunitMittal&theme=onedark&hide_border=true"/>
+</p>
