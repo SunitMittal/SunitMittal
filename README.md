@@ -31,9 +31,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://komarev.com/ghpvc/?username=SunitMittal&label=Profile%20views&color=0e75b6" alt="SunitMittal" height="28"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=SunitMittal&theme=radical">
-
 <p>
 <img width="49%" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunitMittal&show_icons=true&locale=en&layout=compact&theme=radical"/>
 <img width="49%" src="http://github-readme-streak-stats.herokuapp.com/?user=SunitMittal&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
