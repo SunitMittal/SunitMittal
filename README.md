@@ -5,9 +5,8 @@ I am a passionate **Software Engineer** with a strong focus on problem-solving a
 I am always on the lookout for new challenges that push my creativity and technical skills, as well as opportunities to contribute to meaningful projects. I believe in lifelong learning, constantly expanding my horizons in both technology and personal growth. Beyond coding, I’m an avid reader, runner, and explorer of new ideas and innovations.
 
 # 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/sunitmittal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunitmittal" height="30"/></a>
-
 <a href="https://www.linkedin.com/in/sunitmittal" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="sunitmittal" height="30"/></a>
+<a href="https://www.linkedin.com/in/sunitmittal01@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="sunitmittal" height="30"/></a>
 
 
 # 💻 Tech Stack:
