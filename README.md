@@ -6,8 +6,7 @@ I am always on the lookout for new challenges that push my creativity and techni
 
 # 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/sunitmittal" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="sunitmittal" height="30"/></a>
-<a href="https://www.linkedin.com/in/sunitmittal" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="sunitmittal" height="30"/></a>
-
+<a href="https://github.com/SunitMittal" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="sunitmittal" height="30"/></a>
 
 # 💻 Tech Stack:
 <p>
